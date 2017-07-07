@@ -1,4 +1,4 @@
-[![](https://badge.imagelayers.io/1science/sbt:latest.svg)](https://imagelayers.io/?images=1science/sbt:latest 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/brtnshrdr/sbt:latest.svg)](https://imagelayers.io/?images=brtnshrdr/sbt:latest 'Get your own badge on imagelayers.io')
 
 # What is SBT?
 
@@ -8,13 +8,12 @@ sbt is an open source build tool for Scala and Java projects, similar to Java's 
 
 > [wikipedia.org/wiki/SBT_(software))
 
-This image is based on [Oracle JRE 8](https://github.com/1science/docker-java/tree/oracle-jre-8).
+This image is based on OpenJDK 8.
 
 
 # Supported tags
 
--	[`0.13.8-oracle-jre-8`](https://github.com/1science/docker-sbt/tree/0.13.8-oracle-jre-8)
--	[`0.13.8-oracle-jre-7`](https://github.com/1science/docker-sbt/tree/0.13.8-oracle-jre-7)
+-	[`0.13.15-openjdk-8`](https://github.com/brtnshrdr/docker-sbt/tree/0.13.15-oracle-jdk-8)
 
 
 # Usage

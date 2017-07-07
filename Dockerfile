@@ -2,10 +2,10 @@
 # SBT image based on Oracle JRE 8
 #
 
-FROM 1science/java:oracle-jre-8
-MAINTAINER 1science Devops Team <devops@1science.org>
+FROM openjdk:8-jdk
+MAINTAINER Nick Richardson <nick.richardson@mediapixeldesign.com>
 
-ENV SBT_VERSION 0.13.11
+ENV SBT_VERSION 0.13.15
 ENV SBT_HOME /usr/local/sbt
 ENV PATH ${PATH}:${SBT_HOME}/bin
 
